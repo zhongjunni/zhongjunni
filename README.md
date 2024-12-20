@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a PhD student at the Department of Science and Technology, Linköping University.
-- 🌱 My research interests include digital twins, time series analysis, optimization, and Edge/Cloud computing-based IoT solutions.
+- 🌱 My research interests include embedded systems, digital twins, time series analysis, optimization, and Edge/Cloud computing-based IoT solutions.
 - 📫 How to reach me: zhongjun.ni@liu.se
