@@ -10,6 +10,4 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Ph.D. student at the Department of Science and Technology, Linköping University.
-- 🌱 My research interests include time series analysis, optimization, digital twins, and IoT solutions based on Edge-Cloud computing.
-- 📫 How to reach me: zhongjun.ni@liu.se
+- 🔭 I’m currently working as a System Developer at Ericsson.
