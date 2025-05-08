@@ -9,5 +9,3 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working as a System Developer at Ericsson.
